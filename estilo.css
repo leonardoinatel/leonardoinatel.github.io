@@ -1,0 +1,46 @@
+ul{
+    margin-top: 0%
+}
+
+h4{
+    margin-bottom: 5px
+}
+
+h1{
+    margin-bottom: 0%;
+    text-align: center
+}
+
+p{
+    margin-top: 0
+}
+
+body{
+    font-family: 'Roboto', sans-serif
+}
+
+#header{
+    padding: 0;
+}
+
+#header-content {
+    
+}
+
+#personal-content {
+    border-radius: 100%;
+}
+
+#header-content{
+    background-image: url("images/wave-4833997_1920.jpg");
+    background-position: 25% 25%;
+    background-size: cover;
+    padding: 60px 30px 40px;
+  }
+
+  #body-content{
+    background-image: url("images/paper-1074131_1920.jpg");
+    background-position: 25% 25%;
+    background-size: cover;
+    padding: 60px 30px 40px;
+  }
